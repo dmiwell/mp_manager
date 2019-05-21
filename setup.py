@@ -15,7 +15,7 @@ setuptools.setup(
     name='mp_manager',
     description='Simple python multiprocessing manager',
     long_description=open('README.rst').read(),
-    version='0.1',
+    version='0.2',
     author='Dmitriy Pomazunovskiy',
     author_email='forestwheel@gmail.com',
     classifiers=[_f for _f in CLASSIFIERS.split('\n') if _f],
