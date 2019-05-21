@@ -15,7 +15,6 @@ setuptools.setup(
     name='mp_manager',
     description='Simple python multiprocessing manager',
     long_description=open('README.rst').read(),
-    # long_description_content_type='text/x-rst',
     version='0.1',
     author='Dmitriy Pomazunovskiy',
     author_email='forestwheel@gmail.com',
