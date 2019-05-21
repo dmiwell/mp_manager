@@ -19,7 +19,7 @@ setuptools.setup(
     author='Dmitriy Pomazunovskiy',
     author_email='forestwheel@gmail.com',
     classifiers=[_f for _f in CLASSIFIERS.split('\n') if _f],
-    url='http://pypi.python.org/pypi/mp_manager',
+    url='https://github.com/dmiwell/mp_manager',
     license='BSD',
     setup_requires=['wheel'],
     packages=['mp_manager']
